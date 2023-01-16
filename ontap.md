@@ -19,7 +19,7 @@
    - D. Không, nếu 2 sp cùng Visible ngoài frontend
    - E. Cả B và D đều đúng
 
-- > A E
+- >  E
 
 4. Chọn câu trả lời đúng nhất:
    2 CMS page có thể có URL key giống nhau không?
@@ -27,15 +27,14 @@
    - B. Không.
    - C. Có thể, chỉ khi 2 CMS page thuộc 2 storeviews khác nhau
 
-- > B C
+- > C
 
 5. Order ở trạng thái complete, khách hàng chỉ muốn refund shipping fee, không muốn refund bất kì sản phẩm nào. Điều này có khả thi không?
    - A. Có
    - B. Không.
    - C. Tùy thuộc vào thiết lập của admin
 
-- > B Chưa biết
-
+- > A
 6. When creating an attribute, which of the following catalog input types can be used in layered navigation?
    - A. Date
    - B. Yes/No
@@ -43,7 +42,7 @@
    - D. Both B&C
    - E. None of the above
 
-- > D
+- > D 
 
 7. Khi tạo mới sp configurable, điền qty cho sp cha, stock status của sp cha là in stock, không điền Qty cho sp con. Vậy sau khi tạo sp xong, sp con có stock status là gì và ngoài frontend sp cha có stock status là gì?
    - A. Sp con: Out of stock, Frontend: Out of stock
@@ -56,7 +55,7 @@
    - A. Có thể
    - B. Không thể
 
-- > B Đúng
+- > A
 
 9. Storeview 1 và 2 cùng thuộc 1 website. 1 sp con có thể hiển thị trên category page của storeview 1 nhưng ko hiển thị trên category page tương ứng trên storeview 2 hay không?
    - A. Có thể
@@ -105,13 +104,13 @@
     - C. Cả A&B
     - D. Khách hàng không thể xem được comment
 
-- > D Order Comment Email Template for Guest
+- > A Order Comment Email Template for Guest
 
 16. Một sản phẩm đang có qty=0, out of stock threshold=0, có thể refund order có sản phẩm nhưng không làm thay đổi stock status của sản phẩm không?
     - A. Có
     - B. Không
 
-- > B
+- > A RETURN TO STOCK
   > Magento adds quantities back to the products and sources that shipped the orders and reservation compensations to update salable quantities for the associated stock.
 
 17. Có thể nào xảy ra trường hợp sản phẩm con của configurable product là sản phẩm con của bundle product hay không?
@@ -136,7 +135,7 @@
     - d. Hiển thị giá sale = Original price – (tiger price + special price)
     - e. Có config cho phép lựa chọn hiển thị 1 trong 2 loại price trên
 
-- > D
+- > C
 
 20. Có 2 configurantion giống nhau
 
@@ -182,7 +181,7 @@
     - c. Không có gì xảy ra
     - d. Số lượng sản phẩm chỉ tăng lên 5.
 
-- > A
+- > D 
 
 26. Có thể thêm trực tiếp configurable product từ cross-sell product vào cart không?
     - a. Có
